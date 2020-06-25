@@ -2,7 +2,7 @@
 title: "Report on New Insights on Poverty"
 author: "Yanhan Si"
 date: "12/2/2019"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
