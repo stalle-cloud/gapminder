@@ -2,7 +2,7 @@ library(tidyverse)
 library(dslabs)
 data(gapminder)
 
-#Code: Single time series
+# Code: Single time series
 # line plot of US fertility by year
 gapminder %>%
   filter(country == "United States") %>%
